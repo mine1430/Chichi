@@ -1,0 +1,122 @@
+{
+  "stats": {
+    "minecraft:mined": {
+      "minecraft:tall_grass": 15,
+      "minecraft:cherry_log": 290,
+      "minecraft:dirt": 885,
+      "minecraft:bush": 2,
+      "minecraft:cherry_fence": 8,
+      "minecraft:grass_block": 493,
+      "minecraft:pink_petals": 38,
+      "minecraft:oak_planks": 4,
+      "minecraft:stripped_cherry_log": 11,
+      "minecraft:cherry_stairs": 21,
+      "minecraft:cobblestone": 2,
+      "minecraft:white_bed": 1,
+      "minecraft:short_grass": 60,
+      "minecraft:cherry_leaves": 38,
+      "minecraft:fire": 1,
+      "minecraft:oak_leaves": 2,
+      "minecraft:dirt_path": 1,
+      "minecraft:cherry_planks": 2,
+      "minecraft:oak_log": 8,
+      "minecraft:iron_ore": 5,
+      "minecraft:stone": 61
+    },
+    "minecraft:dropped": {
+      "minecraft:dirt": 775,
+      "minecraft:pink_petals": 1
+    },
+    "minecraft:killed_by": {
+      "minecraft:zombie": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 37351,
+      "minecraft:leave_game": 12,
+      "minecraft:damage_taken": 2585,
+      "minecraft:mob_kills": 1,
+      "minecraft:time_since_death": 37314,
+      "minecraft:interact_with_furnace": 4,
+      "minecraft:sleep_in_bed": 5,
+      "minecraft:total_world_time": 164026,
+      "minecraft:swim_one_cm": 12937,
+      "minecraft:crouch_one_cm": 4847,
+      "minecraft:deaths": 3,
+      "minecraft:interact_with_crafting_table": 5,
+      "minecraft:walk_one_cm": 516847,
+      "minecraft:walk_under_water_one_cm": 3939,
+      "minecraft:play_time": 164026,
+      "minecraft:damage_dealt": 259,
+      "minecraft:jump": 3468,
+      "minecraft:drop": 14,
+      "minecraft:use_cauldron": 1,
+      "minecraft:sprint_one_cm": 269253,
+      "minecraft:open_chest": 18,
+      "minecraft:fall_one_cm": 120702,
+      "minecraft:fly_one_cm": 411057,
+      "minecraft:interact_with_anvil": 3,
+      "minecraft:walk_on_water_one_cm": 5743,
+      "minecraft:sneak_time": 2322
+    },
+    "minecraft:broken": {
+      "minecraft:iron_shovel": 4
+    },
+    "minecraft:killed": {
+      "minecraft:creeper": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:dirt": 1454,
+      "minecraft:wooden_pickaxe": 2,
+      "minecraft:stick": 85,
+      "minecraft:cobblestone": 132,
+      "minecraft:cooked_beef": 16,
+      "minecraft:cherry_sapling": 76,
+      "minecraft:oak_planks": 6,
+      "minecraft:white_bed": 1,
+      "minecraft:iron_shovel": 9,
+      "minecraft:iron_axe": 4,
+      "minecraft:oak_sapling": 1,
+      "minecraft:cherry_log": 313,
+      "minecraft:cherry_fence": 7,
+      "minecraft:raw_iron": 5,
+      "minecraft:cherry_stairs": 32,
+      "minecraft:stone_pickaxe": 2,
+      "minecraft:cooked_mutton": 9,
+      "minecraft:oak_log": 8,
+      "minecraft:stripped_cherry_log": 10,
+      "minecraft:baked_potato": 31,
+      "minecraft:wheat_seeds": 18,
+      "minecraft:cherry_planks": 11,
+      "minecraft:gunpowder": 2,
+      "minecraft:pink_petals": 522
+    },
+    "minecraft:crafted": {
+      "minecraft:cherry_fence": 3,
+      "minecraft:stick": 22,
+      "minecraft:wooden_pickaxe": 1,
+      "minecraft:oak_planks": 30,
+      "minecraft:cherry_planks": 8,
+      "minecraft:cherry_stairs": 4,
+      "minecraft:stone_pickaxe": 1
+    },
+    "minecraft:used": {
+      "minecraft:iron_axe": 438,
+      "minecraft:baked_potato": 21,
+      "minecraft:wooden_pickaxe": 23,
+      "minecraft:pink_petals": 1,
+      "minecraft:cobblestone": 8,
+      "minecraft:cherry_log": 215,
+      "minecraft:cherry_fence": 8,
+      "minecraft:cooked_beef": 8,
+      "minecraft:cooked_mutton": 5,
+      "minecraft:bucket": 1,
+      "minecraft:cherry_stairs": 3,
+      "minecraft:oak_planks": 20,
+      "minecraft:white_bed": 1,
+      "minecraft:stone_pickaxe": 47,
+      "minecraft:dirt": 574,
+      "minecraft:iron_shovel": 1450
+    }
+  },
+  "DataVersion": 4671
+}
